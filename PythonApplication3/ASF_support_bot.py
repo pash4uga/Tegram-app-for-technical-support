@@ -14,7 +14,7 @@ from telebot import apihelper
 
 apihelper.proxy = {'https': 'socks5h://127.0.0.1:9150'}
 #apihelper.proxy = {'https': 'socks5h://34.76.159.209:80'}
-TOKEN = '1095944337:AAHUzqbcZPNOyAB5L3Wilu9ofumQYxAcPB4'
+TOKEN = ''
 bot  = telebot.TeleBot(TOKEN);
 name = {}
 tele = {}  
